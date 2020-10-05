@@ -1,0 +1,39 @@
+.nav {
+  background-color: transparent;
+  display: flex;
+  position: sticky;
+  top: 0;
+  
+}
+
+.scrolls {
+  transform: translateX(510%);
+  font-weight: bolder;
+  font-size: 30px;
+ 
+}
+
+.img {
+  width: 40px;
+  height: 40px;
+  margin: 2px;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.img:hover{
+  transform: rotate(360deg);
+}
+
+.decoration1{
+  margin: 16px;
+  text-decoration: none;
+}
+
+#a1:hover{
+  text-decoration: underline;
+  }
+
+.decoration2{
+  text-decoration: none;
+}

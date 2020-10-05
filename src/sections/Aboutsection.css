@@ -1,0 +1,20 @@
+.second {
+  background-color: skyblue;
+}
+
+.tSize2 {
+  font-size: 35px;
+  -webkit-text-stroke: black 2px;
+}
+
+.p {
+  font-size: 30px;
+  text-align: left;
+  margin: 10px;
+}
+
+.border {
+  border-top: black solid 5px;
+  border-bottom: black solid 5px;
+}
+

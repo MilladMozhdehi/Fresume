@@ -1,0 +1,63 @@
+{
+  "title1": "Hello , I am Milad",
+  "title2": "Engineer | ReactJs Dev",
+  "links": {
+    "linkedin": "https://linkedin.com/in/milad-mozhdehipour-a004b2190",
+    "twitter": "https://twitter.com/milad_mozhde",
+    "github": "https://github.com/MilladMozhdehi",
+    "instagram": "https://www.instagram.com/miladmozhdehi"
+  },
+
+  "section": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "container": "I am Milad Mozhdehi Pour and I love programming."
+        },
+        {
+          "type": "p",
+          "container": "I graduate at Garmsar University but because of interest in programming I start self-learning JavaScript."
+        },
+        {
+          "type": "p",
+          "container": "I am very enthusiastic in coding and I learn it by video and pdf, but I sure in near future I become a professional full stack Dev."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "./images/REACT.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./images/jS.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./images/CSS.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./images/HTML.png",
+            "title": "HTmL"
+          }
+        }
+      ]
+    }
+  ]
+}

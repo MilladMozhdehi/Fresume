@@ -1,0 +1,29 @@
+.cards {
+  width: 200px;
+  height: 350px;
+  background-color: silver;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px black;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.cards:hover{
+  transform: scale(1.2) ;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+}
+
+.tSize3 {
+  font-size: 40px;
+}
+
+.tSize4 {
+  font-size: 30px;
+}
